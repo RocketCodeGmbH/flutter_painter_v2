@@ -2,6 +2,17 @@
 
 [![pub package](https://img.shields.io/pub/v/flutter_painter?label=flutter_painter&color=blue)](https://pub.dev/packages/flutter_painter) <a href="https://www.buymeacoffee.com/omarhurani" target="_blank"><img src="https://i.imgur.com/OUmVzk7.png" alt="Buy Me A Pizza" height=22px/ > </a>
 
+> ### Fork notice & credits
+>
+> This is a [RocketCodeGmbH](https://github.com/RocketCodeGmbH) maintenance fork of
+> [`flutter_painter_v2`](https://github.com/hatemragab/flutter_painter_v2) by **hatemragab**,
+> which is itself a continuation of the original
+> [**`flutter_painter`** by omarhurani](https://github.com/omarhurani/flutter_painter).
+> All credit for the original package goes to its respective authors.
+>
+> This fork exists only to fix production issues we encounter; there is no further
+> development planned for now.
+
 A pure-Flutter package for painting. 
 
 ## Summary
